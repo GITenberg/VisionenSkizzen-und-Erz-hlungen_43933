@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42484
     wikipedia: http://en.wikipedia.org/wiki/Oskar_Panizza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43933#VisionenSkizzen-und-Erz-hlungen
 gutenberg_issued: '2013-10-11'
 gutenberg_type: Text
 identifiers:
