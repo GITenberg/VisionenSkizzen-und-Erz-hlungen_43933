@@ -1,0 +1,32 @@
+_repo: VisionenSkizzen-und-Erz-hlungen_43933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Panizza, Oskar
+    alias: Panizza, Oscar
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '42484'
+    url: http://www.gutenberg.org/2009/agents/42484
+    wikipedia: http://en.wikipedia.org/wiki/Oskar_Panizza
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43933'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature'
+tableOfContents: Die Kirche von Zinsblech -- Eine Negergeschichte -- Ein Criminelles
+  Geschlecht -- Der Corsetten-Fritz -- Indianer-Gedanken -- Ein scandalöser Fall --
+  Der operirte Jud' -- Das Wirthshaus zur Dreifaltigkeit -- Der Goldregen -- Ein Kapitel
+  aus der Pastoral-Medizin.
+title: 'Visionen: Skizzen und Erzählungen'
+url: http://www.gutenberg.org/ebooks/43933
